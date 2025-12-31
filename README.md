@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Anila 👋
 
-<!--
-**anilanazir/anilanazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building responsive, accessible, and modern web applications.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML, CSS, JavaScript (ES6+)
+- React, Redux Toolkit
+- Bootstrap, Tailwind CSS
+- Firebase Authentication
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+#### 🌱 GreenStore – E-commerce App
+- Plant-based e-commerce app built with React
+- Cart management using Redux Toolkit
+- Firebase authentication
+- Deployed on Vercel
+
+🔗 Live: https://capstone-project-rsrk.vercel.app/  
+🔗 Code: https://github.com/anilanazir/Capstone-Project
+
+### 📫 Connect with me
+- Portfolio: https://my-portfolio-five-orpin-64.vercel.app/
+- LinkedIn: www.linkedin.com/in/anila-nazir
