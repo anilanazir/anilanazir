@@ -1,23 +1,21 @@
+<h1 align="center">Anila Nazir</h1>
+<h3 align="center">Passionate frontend developer</h3>
 
-Frontend Developer focused on building responsive, accessible, and modern web applications.
+- 🌱 I’m currently learning **Next.js**
 
-### 🚀 Skills
-- HTML, CSS, JavaScript (ES6+)
-- React, Redux Toolkit
-- Bootstrap, Tailwind CSS
-- Firebase Authentication
-- Git & GitHub
+- 👨‍💻 All of my projects are available at [https://my-portfolio-five-orpin-64.vercel.app/](https://my-portfolio-five-orpin-64.vercel.app/)
 
-### 🛠️ Projects
-#### 🌱 GreenStore – E-commerce App
-- Plant-based e-commerce app built with React
-- Cart management using Redux Toolkit
-- Firebase authentication
-- Deployed on Vercel
+- 💬 Ask me about **React, JavaScript, Tailwind CSS**
 
-🔗 Live: https://capstone-project-rsrk.vercel.app/  
-🔗 Code: https://github.com/anilanazir/Capstone-Project
+- 📫 How to reach me **anilanazir7@gmail.com**
 
-### 📫 Connect with me
-- Portfolio: https://my-portfolio-five-orpin-64.vercel.app/
-- LinkedIn: www.linkedin.com/in/anila-nazir
+- ⚡ Fun fact **I love turning ideas into code and building things that people enjoy using!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anila nazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anila nazir" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
