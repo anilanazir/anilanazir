@@ -1,21 +1,51 @@
-<h1 align="center">Anila Nazir</h1>
-<h3 align="center">Passionate frontend developer</h3>
+<!-- PROFILE HEADER -->
+<div align="center">
 
-- 🌱 I’m currently learning **Next.js**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ANILA%20NAZIR&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-five-orpin-64.vercel.app/](https://my-portfolio-five-orpin-64.vercel.app/)
+### Frontend Developer | React,Redux,Tailwind CSS | Building Responsive Web designs. 
 
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**
+📍 Punjab, Pakistan  
+📧 anilanazir7@gmail.com  
+🌐 Portfolio: https://my-portfolio-five-orpin-64.vercel.app/ 
 
-- 📫 How to reach me **anilanazir7@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/anila-nazir)
+[![Resume](https://img.shields.io/badge/Resume-red?style=flat&logo=adobeacrobatreader)](https://your-resume-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/anilanazir)
 
-- ⚡ Fun fact **I love turning ideas into code and building things that people enjoy using!**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anila nazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anila nazir" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## About Me
 
+I’m a passionate **Frontend Developer** focused on building responsive, scalable, and user-friendly web applications.  
+I love working with **modern JavaScript frameworks**, clean UI design, and performance-optimized code.
+
+## Technical Skills
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue?style=flat&logo=tailwindcss)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visualstudiocode)
+
+---
+
+## Let’s Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/anila-nazir
+- 🌐 Portfolio: https://my-portfolio-five-orpin-64.vercel.app/
+- 📧 Email: anilanazir7@gmail.com
+
+---
+
+> *“First, solve the problem. Then, write the code.”* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
