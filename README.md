@@ -9,7 +9,7 @@
 📧 anilanazir7@gmail.com  
 🌐 Portfolio: https://my-portfolio-five-orpin-64.vercel.app/ 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/anila-nazir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anila-nazir/)
 [![Resume](https://img.shields.io/badge/Resume-red?style=flat&logo=adobeacrobatreader)](https://your-resume-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/anilanazir)
 
