@@ -1,4 +1,3 @@
-## Hi, I'm Anila 👋
 
 Frontend Developer focused on building responsive, accessible, and modern web applications.
 
